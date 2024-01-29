@@ -1,0 +1,5 @@
+[core]
+    remote = "ailabs3"
+['remote "ailabs3"']
+    url = s3://ic-smartvision-vnpt-vn-viewer/giaothong/Fisheye8K
+    endpointurl = https://storage-ailab.icenter.ai

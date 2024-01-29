@@ -1,0 +1,5 @@
+outs:
+- md5: bbe6574257af9b00dfa6b02df13988bb
+  size: 159
+  hash: md5
+  path: train_set_stats.txt

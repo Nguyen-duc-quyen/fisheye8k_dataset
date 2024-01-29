@@ -1,0 +1,6 @@
+outs:
+- md5: 7474bac58563e8672cc37c8e2b519a05.dir
+  size: 17629144
+  nfiles: 2
+  hash: md5
+  path: ms_coco-format_labels
